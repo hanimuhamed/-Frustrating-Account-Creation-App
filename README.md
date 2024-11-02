@@ -20,3 +20,7 @@ If you say "no," the app will threaten to delete your account — unless you tap
 The Final Surprise:
 Once you make it through all the challenges, a surprise awaits you. But what it is… you’ll just have to see for yourself!
 This app is intentionally over-the-top to explore just how frustrating (but funny) account creation can be. Enjoy the experience, or at least try to! 😈
+
+Here's the link to download the app:
+
+https://drive.google.com/file/d/1zgsBGE_JkUfPVzIKbzxnNzZcpvFqoHle/view?usp=drive_link
