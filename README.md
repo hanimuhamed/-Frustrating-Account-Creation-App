@@ -1,3 +1,7 @@
+Here's the link to download the app:
+
+https://drive.google.com/file/d/1zgsBGE_JkUfPVzIKbzxnNzZcpvFqoHle/view?usp=drive_link
+
 Frustrating Account Creation App
 
 Welcome to the Frustrating Account Creation App, my entry for the Useless Projects Hackathon! This app is designed to take the concept of creating an account to new (and absurdly frustrating) levels. Here's what you can expect:
